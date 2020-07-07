@@ -1,0 +1,71 @@
+.background{
+    background-color: rgb(215, 231, 231);
+}
+.container{
+    margin-bottom: 100px;
+}
+.carousel-item{
+    padding: 10px 40px;
+}
+.buY-button{
+background-color: black;
+color: white;
+ border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+    cursor: pointer;
+}
+.card-title{
+    text-align: center;
+}
+.tk{
+    text-align: center;
+}
+.card{
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    background-color: white;
+    border-top: none;
+}
+.hd{
+    color: rgb(238, 107, 0);
+}
+.img1{
+   
+    border-radius: 10px;
+    
+    box-shadow: 5px 5px 70px gray;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    height: 200px;
+    width: 200px;
+    padding-top: 30px;
+   
+
+}
+.img2{
+    border-radius: 10px;
+    
+    box-shadow: 5px 5px 70px gray;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    height: 200px;
+    width: 200px;
+    padding-top: 30px;
+}
+.img3{
+    border-radius: 10px;
+    
+    box-shadow: 5px 5px 70px gray;
+    text-align: center;
+    margin-bottom: 30px;
+    margin-left: 60px;
+    height: 200px;
+    width: 200px;
+    padding-top: 30px;
+}
